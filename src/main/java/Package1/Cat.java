@@ -33,6 +33,6 @@ public class Cat implements JumpableRunnable {
 
     @Override
     public String toString() {
-        return "Кот по кличке " + nickname;
+        return "Кота зовут " + nickname;
     }
 }
